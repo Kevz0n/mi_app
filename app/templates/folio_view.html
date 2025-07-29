@@ -1,0 +1,14 @@
+{% extends "base.html" %}
+{% block title %}Ver Folio: {{ fname }}{% endblock %}
+
+{% block content %}
+  <h1 class="mb-4">Folio: {{ fname }}</h1>
+  <p>
+    <a href="/folios/upload" class="btn-animated mb-3">
+      ← Volver a lista de folios
+    </a>
+  </p>
+  <div class="card p-4" style="white-space: pre-wrap; font-family: monospace; font-size: .9rem; max-height: 70vh; overflow: auto;">
+    {{ content | tojson(indent=2) }}
+  </div>
+{% endblock %}

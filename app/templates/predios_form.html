@@ -1,0 +1,46 @@
+{% extends "base.html" %}
+
+{% block title %}
+    {% if predio %}Editar Predio{% else %}Crear Predio{% endif %}
+{% endblock %}
+
+{% block content %}
+<h1>{% if predio %}Editar Predio{% else %}Crear Predio{% endif %}</h1>
+<form method="post" action="/predios/save">
+    {% if predio %}
+        <input type="hidden" name="id" value="{{ predio.id }}">
+    {% endif %}
+    <label>Nombre o Dirección:<br>
+        <input type="text" name="nombre" required value="{{ predio.nombre if predio }}">
+    </label><br>
+
+    <label>Tipo:<br>
+        <select name="tipo" required>
+            <option value="">--Seleccionar--</option>
+            <option value="Urbano" {% if predio and predio.tipo.value=='Urbano' %}selected{% endif %}>Urbano</option>
+            <option value="Rural"  {% if predio and predio.tipo.value=='Rural'  %}selected{% endif %}>Rural</option>
+        </select>
+    </label><br>
+
+    <label>Número Catastral (30 dígitos):<br>
+        <input type="text" name="numero_catastral" minlength="30" maxlength="30" required
+               value="{{ predio.numero_catastral if predio }}">
+    </label><br>
+
+    
+
+    <fieldset>
+        <legend>Propietarios</legend>
+        {% for prop in propietarios %}
+            <label>
+                <input type="checkbox" name="propietarios_ids" value="{{ prop.id }}"
+                    {% if predio and prop in predio.propietarios %}checked{% endif %}>
+                {{ prop.nombre }}
+            </label><br>
+        {% endfor %}
+    </fieldset><br>
+
+    <button type="submit">{% if predio %}Actualizar{% else %}Crear{% endif %}</button>
+    <a href="/predios/">Cancelar</a>
+</form>
+{% endblock %}

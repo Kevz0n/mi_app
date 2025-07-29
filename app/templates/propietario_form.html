@@ -1,0 +1,55 @@
+{% extends "base.html" %}
+
+{% block title %}
+    {% if propietario %}Editar Propietario{% else %}Crear Propietario{% endif %}
+{% endblock %}
+
+{% block content %}
+<h1>{% if propietario %}Editar Propietario{% else %}Crear Propietario{% endif %}</h1>
+<form method="post" action="/propietarios/save">
+    {% if propietario %}
+        <input type="hidden" name="id" value="{{ propietario.id }}">
+    {% endif %}
+    <label>Nombre:<br>
+        <input type="text" name="nombre" required value="{{ propietario.nombre if propietario }}">
+    </label><br>
+
+    <label>Tipo de Persona:<br>
+        <select name="tipo_persona" required>
+            <option value="">--Seleccionar--</option>
+            <option value="Natural" {% if propietario and propietario.tipo_persona.value=='Natural' %}selected{% endif %}>Natural</option>
+            <option value="Jurídica" {% if propietario and propietario.tipo_persona.value=='Juridica' %}selected{% endif %}>Jurídica</option>
+        </select>
+    </label><br>
+
+    <label>Número de Identificación:<br>
+        <input type="text" name="numero_identificacion" required value="{{ propietario.numero_identificacion if propietario }}">
+    </label><br>
+
+    <label>Tipo de Identificación:<br>
+  <select name="tipo_identificacion" required>
+    <option value="">--Seleccionar--</option>
+    <option value="Cédula de ciudadanía"
+      {% if propietario and propietario.tipo_identificacion == "Cédula de ciudadanía" %}selected{% endif %}>
+      Cédula de ciudadanía
+    </option>
+    <option value="Cédula de extranjería"
+      {% if propietario and propietario.tipo_identificacion == "Cédula de extranjería" %}selected{% endif %}>
+      Cédula de extranjería
+    </option>
+    <option value="Número de identificación tributaria"
+      {% if propietario and propietario.tipo_identificacion == "Número de identificación tributaria" %}selected{% endif %}>
+      Número de identificación tributaria
+    </option>
+    <option value="Tarjeta de identidad"
+      {% if propietario and propietario.tipo_identificacion == "Tarjeta de identidad" %}selected{% endif %}>
+      Tarjeta de identidad
+    </option>
+  </select>
+</label><br>
+
+
+    <button type="submit">{% if propietario %}Actualizar{% else %}Crear{% endif %}</button>
+    <a href="/propietarios/">Cancelar</a>
+</form>
+{% endblock %}

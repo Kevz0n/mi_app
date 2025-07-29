@@ -1,0 +1,328 @@
+{
+    "fecha": "11/07/2023",
+    "hora": "11:15 AM",
+    "numeroConsulta": "460695922",
+    "circulo": "132",
+    "numeroMatricula": "45993",
+    "referenciaCatastral": "196980100000006640008000000000",
+    "referenciaCatastralAnterior": "19698010006640008000",
+    "departamento": {
+        "id": "19",
+        "nombre": "CAUCA"
+    },
+    "municipio": {
+        "id": 19698,
+        "nombre": "SANTANDER DE QUILICHAO"
+    },
+    "vereda": "SANTANDER DE QUILICHAO",
+    "direccion": "UR EL MIRADOR MZ G LT 9",
+    "direccionesAnteriores": [],
+    "fechaAperturaFolio": "15/02/2005",
+    "tipoInstrumento": "ESCRITURA",
+    "fechaInstrumento": "12/02/2005",
+    "estadoFolio": "ACTIVO",
+    "matriculasMatriz": [
+        "132-45172"
+    ],
+    "matriculasDerivadas": [],
+    "tipoPredio": "U",
+    "propietarios": [
+        {
+            "nombre": "ARNOLDO LEON BOLAÑOS TROCHEZ ",
+            "tipoDocumento": {
+                "id": "CC",
+                "nombre": "CÉDULA CIUDADANÍA"
+            },
+            "numeroDocumento": "10486162",
+            "titular": "X"
+        },
+        {
+            "nombre": "MARIA ARNOBIA ZUÑIGA MUÑOZ ",
+            "tipoDocumento": {
+                "id": "CC",
+                "nombre": "CÉDULA CIUDADANÍA"
+            },
+            "numeroDocumento": "34603191",
+            "titular": "X"
+        }
+    ],
+    "complementaciones": "             01.-REGISTRO  07-04-2004 ESCRITURA 236 DEL  25-02-2004 NOTARIA DE SANTANDER DE QUILICHAO DIVISION MATERIAL DE: GRIJALBA MU/OZ LUIS EDUARDO, DAZA ZU/IGA FERNEY, A: GRIJALBA MU/OZ LUIS EDUARDO, DAZA ZU/IGA FERNEY, REGISTRADA EN LA MATRICULA 45172.--             02.-REGISTRO DE  07-04-2004 ESCRITURA 236 DEL  25-03-2004 NOTARIA DE SANTANDER DE QUILICHAO RATIFICACION  CONTRATO DE: HOLGUIN BORRERO INGRID MILDRED, HOLGUIN BORRERO HAIDER, A: GRIJALBA MU/OZ LUIS EDUARDO, DAZA ZU/IGA FERNEY, REGISTRADA EN LA MATRICULA 2979.-- \n            03.-REGISTRO DE  25-07-2003 SENTENCIA 269 DEL  16-06-2003 JDO. QUINTO DE FAMILIA DE CALI (V) ADJUDICACION EN SUCESION, POR VALOR DE $ 15,874,000.00 DE: HOLGUIN BOHORQUEZ ROSEMBER, A: HOLGUIN BORRERO HAIDER, HOLGUIN BORRERO INGRID MILDRED, REGISTRADA EN LA MATRICULA 2979.--        \n      04.- REGISTRO DE 23-05-2003 ESCRITURA 574 DEL  03-05-2003 NOTARIA DE SANTANDER DE QUILICHAO VENTA DERECHOS GANANCIALES O HERENC. CUERPO CIERTO, POR VALOR DE $ 16,500,000.00 DE: HOLGUIN BORRERO INGRID MILDRED, HOLGUIN BORRERO HAIDER, A: GRIJALBA MU/OZ LUIS EDUARDO, DAZA ZU/IGA FERNEY, REGISTRADA EN LA MATRICULA 2979.-- \n            05.-REGISTRO  01-09-1992 ESCRITURA 1107 DEL  04-08-1992 NOTARIA DE STDER DE QUILICHAO COMPRAVENTA (DE ESTE Y OTRO PREDIO), POR VALOR DE $ 2,500,000.00 DE: SANCHEZ DUQUE IRNE, A: HOLGUIN BOHORQUEZ ROSEMBERG, REGISTRADA EN LA MATRICULA 2979.-- \n           06.-REGISTRO DE  24-06-1992 ESCRITURA 831 DEL  17-06-1992 NOTARIA DE STDER DE QUILICHAO PERMUTA (DE ESTE Y OTRO PREDIO), POR VALOR DE $ 5,000,000.00 DE: HERRERA DE SALAZAR LUZ STELLA, A: SANCHEZ DUQUE IRNE, REGISTRADA EN LA MATRICULA 2979.--  \n         07.-REGISTRO DE  11-07-1991 SENTENCIA 0 DEL  23-10-1991 JDO.C.CTO. DE STDER DE QUILICHAO DECLARACION JUDCIAL DE PRESCRIPCION DE: HERRERA DE SALAZAR LUZ STELLA, A: HERRERA DE SALAZAR LUZ STELLA, REGISTRADA EN LA MATRICULA 2979.--",
+    "linderos": "Contenidos en ESCRITURA Nro 108 de fecha 27-01-2005 en NOTARIA de SANTANDER DE QUILICHAO MANZANA G. LOTE #  9 URBANIZACION EL MIRADOR con area de 131,25 MTS2 (ART.11 DEL DECRETO 1711 DE JULIO 6/1984).",
+    "salvedades": [
+        {
+            "numeroAnotacion": "0",
+            "numeroCorreccion": "2",
+            "fechaSalvedad": "16/01/2011",
+            "radicacionSalvedad": "2011-132-3-11",
+            "descripcion": "SE ACTUALIZA FICHA CATASTRAL CON LA SUMINISTRADA POR EL I.G.A.C., SEGUN RES. NO. 8589 DE 27-11-2008 PROFERIDA POR LA S.N.R (CONVENIO IGAC-SNR DE 23-09-2008)"
+        },
+        {
+            "numeroAnotacion": "0",
+            "numeroCorreccion": "1",
+            "fechaSalvedad": "27/02/2014",
+            "radicacionSalvedad": "2014-132-3-50",
+            "descripcion": "SE INCLUYE NUEVO NUMERO PREDIAL DE 30 DIGITOS SUMINISTRADO POR EL I.G.A.C. (SNC), RES. NO. 8589 DE 27-11-2008 PROFERIDA POR LA S.N.R (CONVENIO IGAC-SNR DE 23-09-2008)"
+        }
+    ],
+    "hectareas": "0",
+    "metros": "131",
+    "centimetros": "2500",
+    "privadaMetros": "0",
+    "privadaCentimetros": "0",
+    "construidaMetros": "0",
+    "construidaCentimetros": "0",
+    "consulta": "460695937",
+    "textoAnotaciones": [
+        "ANOTACION: Nro 1 Fecha: 12-02-2005 Radicación: 2005-132-6-329<br>Doc: ESCRITURA 108 DEL 2005-01-27 00:00:00  NOTARIA DE SANTANDER DE QUILICHAO          VALOR ACTO: $<br/>ESPECIFICACION: 0920 LOTEO  (OTRO)<br/>PERSONAS QUE INTERVIENEN EN EL ACTO (X-Titular de derecho real de dominio,I-Titular de dominio incompleto)<br/>A: GRIJALBA MU�OZ LUIS EDUARDO   CC 10505420 X   <br/>A: DAZA ZU�IGA FERNEY   CC 10505770 X   ",
+        "ANOTACION: Nro 2 Fecha: 23-04-2009 Radicación: 2009-132-6-1123<br>Doc: ESCRITURA 381 DEL 2009-04-02 00:00:00  NOTARIA DE SANTANDER DE QUILICHAO          VALOR ACTO: $16.300.468<br/>ESPECIFICACION: 0125 COMPRAVENTA UNIDAD DE VIVIENDA DE INTERES SOCIAL CON SUBSIDIO. CON PROHIBICION DE ENAJENAR ANTES DE CINCO A\\0S DESDE LA FECHA DE OTORGADO EL SUBSIDIO. FISCAL 0013707-09 PRIMERA COLUMNA (MODO DE ADQUISICION)<br/>PERSONAS QUE INTERVIENEN EN EL ACTO (X-Titular de derecho real de dominio,I-Titular de dominio incompleto)<br/>DE: GRIJALBA MU�OZ LUIS EDUARDO      CC 10505420       <br/>DE: DAZA ZU�IGA FERNEY      CC 10505770       <br/>A: BOLA�OS TROCHEZ ARNOLDO LEON   CC 10486162 X   <br/>A: ZU�IGA MU�OZ MARIA ARNOBIA   CC 34603191 X   ",
+        "ANOTACION: Nro 3 Fecha: 23-04-2009 Radicación: 2009-132-6-1123<br>Doc: ESCRITURA 381 DEL 2009-04-02 00:00:00  NOTARIA DE SANTANDER DE QUILICHAO          VALOR ACTO: $9.107.700<br/>ESPECIFICACION: 0911 DECLARACION DE CONSTRUCCION EN SUELO PROPIO UNIDAD BASICA CONSTRUIDA. BOLETA FISCAL 0013707-09 (OTRO)<br/>PERSONAS QUE INTERVIENEN EN EL ACTO (X-Titular de derecho real de dominio,I-Titular de dominio incompleto)<br/>A: BOLA�OS TROCHEZ ARNOLDO LEON   CC 10486162 X   <br/>A: ZU�IGA MU�OZ MARIA ARNOBIA   CC 34603191 X   ",
+        "ANOTACION: Nro 4 Fecha: 23-04-2009 Radicación: 2009-132-6-1123<br>Doc: ESCRITURA 381 DEL 2009-04-02 00:00:00  NOTARIA DE SANTANDER DE QUILICHAO          VALOR ACTO: $<br/>ESPECIFICACION: 0315 CONSTITUCION PATRIMONIO DE FAMILIA TERCERA COLUMNA (LIMITACION AL DOMINIO)<br/>PERSONAS QUE INTERVIENEN EN EL ACTO (X-Titular de derecho real de dominio,I-Titular de dominio incompleto)<br/>A: BOLA\\OS ZU\\IGA JOHAN ANDRES       (MENOR)<br/>A: SALAZAR ZU\\IGA LUISA MARIA       (MENOR)<br/>A: FAVOR DE LOS HIJOS QUE LLEGAREN A TENER        <br/>A: BOLA�OS TROCHEZ ARNOLDO LEON   CC 10486162 X   <br/>A: ZU�IGA MU�OZ MARIA ARNOBIA   CC 34603191 X   ",
+        "ANOTACION: Nro 5 Fecha: 23-04-2009 Radicación: 2009-132-6-1123<br>Doc: ESCRITURA 381 DEL 2009-04-02 00:00:00  NOTARIA DE SANTANDER DE QUILICHAO          VALOR ACTO: $<br/>ESPECIFICACION: 0304 AFECTACION A VIVIENDA FAMILIAR TERCERA COLUMNA (LIMITACION AL DOMINIO)<br/>PERSONAS QUE INTERVIENEN EN EL ACTO (X-Titular de derecho real de dominio,I-Titular de dominio incompleto)<br/>A: BOLA�OS TROCHEZ ARNOLDO LEON   CC 10486162 X   <br/>A: ZU�IGA MU�OZ MARIA ARNOBIA   CC 34603191 X   "
+    ],
+    "arbolAnotaciones": [
+        {
+            "label": "LOTEO",
+            "children": [
+                {
+                    "label": "Anotaci&oacute;n Nro: 1",
+                    "children": [
+                        {
+                            "label": "Fecha: 12/02/2005"
+                        },
+                        {
+                            "label": "Radicaci&oacute;n: 2005-132-6-329"
+                        },
+                        {
+                            "label": "Documento: "
+                        },
+                        {
+                            "label": "ESCRITURA 108 DEL 2005-01-27 00:00:00  NOTARIA DE SANTANDER DE QUILICHAO"
+                        },
+                        {
+                            "label": "ValorActo: "
+                        },
+                        {
+                            "label": "Comentarios",
+                            "children": [
+                                {
+                                    "label": "LOTEO  (OTRO)"
+                                }
+                            ]
+                        },
+                        {
+                            "label": "Personas que Intervienen en el acto",
+                            "children": [
+                                {
+                                    "label": ""
+                                },
+                                {
+                                    "label": "A: GRIJALBA MU�OZ LUIS EDUARDO  <pre>      </pre>CC 10505420<pre>      </pre>X   "
+                                },
+                                {
+                                    "label": "A: DAZA ZU�IGA FERNEY  <pre>      </pre>CC 10505770<pre>      </pre>X   "
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "label": "DECLARACION DE CONSTRUCCION EN SUELO PROPIO",
+            "children": [
+                {
+                    "label": "Anotaci&oacute;n Nro: 3",
+                    "children": [
+                        {
+                            "label": "Fecha: 23/04/2009"
+                        },
+                        {
+                            "label": "Radicaci&oacute;n: 2009-132-6-1123"
+                        },
+                        {
+                            "label": "Documento: "
+                        },
+                        {
+                            "label": "ESCRITURA 381 DEL 2009-04-02 00:00:00  NOTARIA DE SANTANDER DE QUILICHAO"
+                        },
+                        {
+                            "label": "ValorActo: 9.107.700"
+                        },
+                        {
+                            "label": "Comentarios",
+                            "children": [
+                                {
+                                    "label": "DECLARACION DE CONSTRUCCION EN SUELO PROPIO UNIDAD BASICA CONSTRUIDA. BOLETA FISCAL 0013707-09 (OTRO)"
+                                }
+                            ]
+                        },
+                        {
+                            "label": "Personas que Intervienen en el acto",
+                            "children": [
+                                {
+                                    "label": ""
+                                },
+                                {
+                                    "label": "A: BOLA�OS TROCHEZ ARNOLDO LEON  <pre>      </pre>CC 10486162<pre>      </pre>X   "
+                                },
+                                {
+                                    "label": "A: ZU�IGA MU�OZ MARIA ARNOBIA  <pre>      </pre>CC 34603191<pre>      </pre>X   "
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "label": "COMPRAVENTA",
+            "children": [
+                {
+                    "label": "Anotaci&oacute;n Nro: 2",
+                    "children": [
+                        {
+                            "label": "Fecha: 23/04/2009"
+                        },
+                        {
+                            "label": "Radicaci&oacute;n: 2009-132-6-1123"
+                        },
+                        {
+                            "label": "Documento: "
+                        },
+                        {
+                            "label": "ESCRITURA 381 DEL 2009-04-02 00:00:00  NOTARIA DE SANTANDER DE QUILICHAO"
+                        },
+                        {
+                            "label": "ValorActo: 16.300.468"
+                        },
+                        {
+                            "label": "Comentarios",
+                            "children": [
+                                {
+                                    "label": "COMPRAVENTA UNIDAD DE VIVIENDA DE INTERES SOCIAL CON SUBSIDIO. CON PROHIBICION DE ENAJENAR ANTES DE CINCO A\\0S DESDE LA FECHA DE OTORGADO EL SUBSIDIO. FISCAL 0013707-09 PRIMERA COLUMNA (MODO DE ADQUISICION)"
+                                }
+                            ]
+                        },
+                        {
+                            "label": "Personas que Intervienen en el acto",
+                            "children": [
+                                {
+                                    "label": "DE: GRIJALBA MU�OZ LUIS EDUARDO  <pre>      </pre>CC 10505420<pre>      </pre>   DE: DAZA ZU�IGA FERNEY  <pre>      </pre>CC 10505770<pre>      </pre>   "
+                                },
+                                {
+                                    "label": "A: BOLA�OS TROCHEZ ARNOLDO LEON  <pre>      </pre>CC 10486162<pre>      </pre>X   "
+                                },
+                                {
+                                    "label": "A: ZU�IGA MU�OZ MARIA ARNOBIA  <pre>      </pre>CC 34603191<pre>      </pre>X   "
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "label": "AFECTACION A VIVIENDA FAMILIAR",
+            "children": [
+                {
+                    "label": "Anotaci&oacute;n Nro: 5",
+                    "children": [
+                        {
+                            "label": "Fecha: 23/04/2009"
+                        },
+                        {
+                            "label": "Radicaci&oacute;n: 2009-132-6-1123"
+                        },
+                        {
+                            "label": "Documento: "
+                        },
+                        {
+                            "label": "ESCRITURA 381 DEL 2009-04-02 00:00:00  NOTARIA DE SANTANDER DE QUILICHAO"
+                        },
+                        {
+                            "label": "ValorActo: "
+                        },
+                        {
+                            "label": "Comentarios",
+                            "children": [
+                                {
+                                    "label": "AFECTACION A VIVIENDA FAMILIAR TERCERA COLUMNA (LIMITACION AL DOMINIO)"
+                                }
+                            ]
+                        },
+                        {
+                            "label": "Personas que Intervienen en el acto",
+                            "children": [
+                                {
+                                    "label": ""
+                                },
+                                {
+                                    "label": "A: BOLA�OS TROCHEZ ARNOLDO LEON  <pre>      </pre>CC 10486162<pre>      </pre>X   "
+                                },
+                                {
+                                    "label": "A: ZU�IGA MU�OZ MARIA ARNOBIA  <pre>      </pre>CC 34603191<pre>      </pre>X   "
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "label": "CONSTITUCION PATRIMONIO DE FAMILIA",
+            "children": [
+                {
+                    "label": "Anotaci&oacute;n Nro: 4",
+                    "children": [
+                        {
+                            "label": "Fecha: 23/04/2009"
+                        },
+                        {
+                            "label": "Radicaci&oacute;n: 2009-132-6-1123"
+                        },
+                        {
+                            "label": "Documento: "
+                        },
+                        {
+                            "label": "ESCRITURA 381 DEL 2009-04-02 00:00:00  NOTARIA DE SANTANDER DE QUILICHAO"
+                        },
+                        {
+                            "label": "ValorActo: "
+                        },
+                        {
+                            "label": "Comentarios",
+                            "children": [
+                                {
+                                    "label": "CONSTITUCION PATRIMONIO DE FAMILIA TERCERA COLUMNA (LIMITACION AL DOMINIO)"
+                                }
+                            ]
+                        },
+                        {
+                            "label": "Personas que Intervienen en el acto",
+                            "children": [
+                                {
+                                    "label": ""
+                                },
+                                {
+                                    "label": "A: BOLA\\OS ZU\\IGA JOHAN ANDRES  <pre>      </pre><pre>      </pre>   (MENOR)"
+                                },
+                                {
+                                    "label": "A: SALAZAR ZU\\IGA LUISA MARIA  <pre>      </pre><pre>      </pre>   (MENOR)"
+                                },
+                                {
+                                    "label": "A: FAVOR DE LOS HIJOS QUE LLEGAREN A TENER   <pre>      </pre><pre>      </pre>   "
+                                },
+                                {
+                                    "label": "A: BOLA�OS TROCHEZ ARNOLDO LEON  <pre>      </pre>CC 10486162<pre>      </pre>X   "
+                                },
+                                {
+                                    "label": "A: ZU�IGA MU�OZ MARIA ARNOBIA  <pre>      </pre>CC 34603191<pre>      </pre>X   "
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,382 @@
+{
+    "fecha": "04/07/2023",
+    "hora": "01:36 PM",
+    "numeroConsulta": "458470513",
+    "circulo": "132",
+    "numeroMatricula": "14150",
+    "referenciaCatastral": "196980001000000050093000000000",
+    "referenciaCatastralAnterior": "19698000100050093000",
+    "departamento": {
+        "id": "19",
+        "nombre": "CAUCA"
+    },
+    "municipio": {
+        "id": 19698,
+        "nombre": "SANTANDER DE QUILICHAO"
+    },
+    "vereda": "PAVITAS",
+    "direccion": "LT DE TERRENO SINAI",
+    "direccionesAnteriores": [],
+    "fechaAperturaFolio": "07/09/1985",
+    "tipoInstrumento": "ESCRITURA",
+    "fechaInstrumento": "29/08/1985",
+    "estadoFolio": "CERRADO",
+    "matriculasMatriz": [
+        "132-12783"
+    ],
+    "matriculasDerivadas": [
+        "132-63124"
+    ],
+    "tipoPredio": "R",
+    "propietarios": [
+        {
+            "nombre": "PABLO EMILIO LOZADA ",
+            "tipoDocumento": {
+                "id": "CC",
+                "nombre": "CÉDULA CIUDADANÍA"
+            },
+            "numeroDocumento": "1457801",
+            "titular": "X"
+        }
+    ],
+    "complementaciones": "1-) REGISTRO DE 17-04-74. ESCRITURA 102 DE 8-03-74. NOTARIA SANTANDER. MODO ADQUISICION. COMPRAVENTA. DE: CLAROS CARLOS ALBERTO, PLAZA DE CLAROS SUSANA, A: MONCADA HERNANDEZ JESUS ANTONIO, REGISTRO FOLIO N. 132-0012783.\n2-) REGISTRO DE 14 DE DICIEMBRE DE 1961. ESCRITURA 374 DE 15 DE NOVIEMBRE DE 1961 NOTARIA SANTANDER. COMRPAVENTA. MODO ADQUISICION. DE: CORREA DE MU/OZ GRACIELA. A: CLAROS CARLOS ALBERTO, PLAZA DE CLAROS SUSANA REGISTRO EN EL LIBRO 1 N. 359 FOLIO 402 TOMO 14",
+    "linderos": "LOTE DE TERRENO CON UN AREA DE 4 HECTAREAS, Y VER LINDEROS EN ESCRITURA N. 888 DE 29-08-85 NOTARIA SANTANDER CAUCA.",
+    "salvedades": [
+        {
+            "numeroAnotacion": "0",
+            "numeroCorreccion": "1",
+            "fechaSalvedad": "16/01/2011",
+            "radicacionSalvedad": "2011-132-3-11",
+            "descripcion": "SE ACTUALIZA FICHA CATASTRAL CON LA SUMINISTRADA POR EL I.G.A.C., SEGUN RES. NO. 8589 DE 27-11-2008 PROFERIDA POR LA S.N.R (CONVENIO IGAC-SNR DE 23-09-2008)"
+        },
+        {
+            "numeroAnotacion": "0",
+            "numeroCorreccion": "2",
+            "fechaSalvedad": "27/02/2014",
+            "radicacionSalvedad": "2014-132-3-50",
+            "descripcion": "SE INCLUYE NUEVO NUMERO PREDIAL DE 30 DIGITOS SUMINISTRADO POR EL I.G.A.C. (SNC), RES. NO. 8589 DE 27-11-2008 PROFERIDA POR LA S.N.R (CONVENIO IGAC-SNR DE 23-09-2008)"
+        }
+    ],
+    "hectareas": "4",
+    "metros": "0",
+    "centimetros": "0",
+    "privadaMetros": "0",
+    "privadaCentimetros": "0",
+    "construidaMetros": "0",
+    "construidaCentimetros": "0",
+    "consulta": "458470502",
+    "textoAnotaciones": [
+        "ANOTACION: Nro 1 Fecha: 07-09-1985 Radicación: 1985-132-6-1573<br>Doc: ESCRITURA 888 DEL 1985-08-29 00:00:00  NOTARIA DE STDER DE QUILICHAO          VALOR ACTO: $200.000<br/>ESPECIFICACION: 101 COMPRAVENTA  (MODO DE ADQUISICION)<br/>PERSONAS QUE INTERVIENEN EN EL ACTO (X-Titular de derecho real de dominio,I-Titular de dominio incompleto)<br/>DE: MONCADA HERNANDEZ JESUS ANTONIO      CC 10489818       <br/>A: TOLA LIEVANO JOSE ANTONIO    X   ",
+        "ANOTACION: Nro 2 Fecha: 16-03-1988 Radicación: 1988-132-6-538<br>Doc: ESCRITURA 281 DEL 1988-03-16 00:00:00  NOTARIA DE STDER DE QUILICHAO          VALOR ACTO: $1.000.000<br/>ESPECIFICACION: 101 COMPRAVENTA  (MODO DE ADQUISICION)<br/>PERSONAS QUE INTERVIENEN EN EL ACTO (X-Titular de derecho real de dominio,I-Titular de dominio incompleto)<br/>DE: TOLA LIEVANO JOSE ANTONIO             <br/>A: LOZADA PABLO EMILIO    X   ",
+        "ANOTACION: Nro 3 Fecha: 16-03-1988 Radicación: 1988-132-6-538<br>Doc: ESCRITURA 281 DEL 1988-03-16 00:00:00  NOTARIA DE STDER DE QUILICHAO          VALOR ACTO: $<br/>ESPECIFICACION: 210 HIPOTECA ABIERTA INDETERMINADA PARA REGISTRO  1000000  (GRAVAMEN)<br/>PERSONAS QUE INTERVIENEN EN EL ACTO (X-Titular de derecho real de dominio,I-Titular de dominio incompleto)<br/>DE: LOZADA PABLO EMILIO             <br/>A: CAJA DE CREDITO AGRARIO        ",
+        "ANOTACION: Nro 4 Fecha: 04-09-1998 Radicación: 1998-132-6-2368<br>Doc: ESCRITURA 1821 DEL 1998-09-02 00:00:00  NOTARIA DE STDER DE QUILICHAO          VALOR ACTO: $<br>    Se cancela anotación No: 3<br/>ESPECIFICACION: 650 CANCELACION HIPOTECA  (CANCELACION)<br/>PERSONAS QUE INTERVIENEN EN EL ACTO (X-Titular de derecho real de dominio,I-Titular de dominio incompleto)<br/>DE: CAJA DE CREDITO AGRARIO              <br/>A: LOZADA PABLO EMILIO       ",
+        "ANOTACION: Nro 5 Fecha: 24-08-2016 Radicación: 2016-132-6-3036<br>Doc: ESCRITURA 1242 DEL 2016-07-19 00:00:00  NOTARIA UNICA DE SANTANDER DE QUILICHAO          VALOR ACTO: $2.000.000<br/>ESPECIFICACION: 0109 ADJUDICACION EN SUCESION  (MODO DE ADQUISICION)<br/>PERSONAS QUE INTERVIENEN EN EL ACTO (X-Titular de derecho real de dominio,I-Titular de dominio incompleto)<br/>DE: LOZADA PABLO EMILIO      CC 1457801       <br/>A: LOZADA GRIZALES DELMER IVAN   CC 10485897 X   ",
+        "ANOTACION: Nro 6 Fecha: 28-09-2016 Radicación: 2016-132-6-3543<br>Doc: ESCRITURA 1723 DEL 2016-09-16 00:00:00  NOTARIA UNICA DE SANTANDER DE QUILICHAO          VALOR ACTO: $<br/>ESPECIFICACION: 0901 ACLARACION SEGUN CERTIFICADO DEL IGAC #3088824 DEL 05-07-2016 DONDE CERTIFICA QUE EL AREA DEL PREDIO ES DE 3H 0583 M2. (OTRO)<br/>PERSONAS QUE INTERVIENEN EN EL ACTO (X-Titular de derecho real de dominio,I-Titular de dominio incompleto)<br/>A: LOZADA PABLO EMILIO   CC 1457801 X   ",
+        "ANOTACION: Nro 7 Fecha: 28-09-2016 Radicación: 2016-132-6-3543<br>Doc: ESCRITURA 1723 DEL 2016-09-16 00:00:00  NOTARIA UNICA DE SANTANDER DE QUILICHAO          VALOR ACTO: $<br/>ESPECIFICACION: 0919 ENGLOBE CON LOS FOLIOS #S 15737 Y 28367 (OTRO)<br/>PERSONAS QUE INTERVIENEN EN EL ACTO (X-Titular de derecho real de dominio,I-Titular de dominio incompleto)<br/>A: LOZADA PABLO EMILIO   CC 1457801 X   "
+    ],
+    "arbolAnotaciones": [
+        {
+            "label": "CANCELACION HIPOTECA",
+            "children": [
+                {
+                    "label": "Anotaci&oacute;n Nro: 4",
+                    "children": [
+                        {
+                            "label": "Fecha: 04/09/1998"
+                        },
+                        {
+                            "label": "Radicaci&oacute;n: 1998-132-6-2368"
+                        },
+                        {
+                            "label": "Documento: "
+                        },
+                        {
+                            "label": "ESCRITURA 1821 DEL 1998-09-02 00:00:00  NOTARIA DE STDER DE QUILICHAO"
+                        },
+                        {
+                            "label": "ValorActo: "
+                        },
+                        {
+                            "label": "Comentarios",
+                            "children": [
+                                {
+                                    "label": "CANCELACION HIPOTECA  (CANCELACION)"
+                                }
+                            ]
+                        },
+                        {
+                            "label": "Personas que Intervienen en el acto",
+                            "children": [
+                                {
+                                    "label": "DE: CAJA DE CREDITO AGRARIO   <pre>      </pre><pre>      </pre>   "
+                                },
+                                {
+                                    "label": "A: LOZADA PABLO EMILIO  <pre>      </pre><pre>      </pre>   "
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "label": "COMPRAVENTA",
+            "children": [
+                {
+                    "label": "Anotaci&oacute;n Nro: 1",
+                    "children": [
+                        {
+                            "label": "Fecha: 07/09/1985"
+                        },
+                        {
+                            "label": "Radicaci&oacute;n: 1985-132-6-1573"
+                        },
+                        {
+                            "label": "Documento: "
+                        },
+                        {
+                            "label": "ESCRITURA 888 DEL 1985-08-29 00:00:00  NOTARIA DE STDER DE QUILICHAO"
+                        },
+                        {
+                            "label": "ValorActo: 200.000"
+                        },
+                        {
+                            "label": "Comentarios",
+                            "children": [
+                                {
+                                    "label": "COMPRAVENTA  (MODO DE ADQUISICION)"
+                                }
+                            ]
+                        },
+                        {
+                            "label": "Personas que Intervienen en el acto",
+                            "children": [
+                                {
+                                    "label": "DE: MONCADA HERNANDEZ JESUS ANTONIO  <pre>      </pre>CC 10489818<pre>      </pre>   "
+                                },
+                                {
+                                    "label": "A: TOLA LIEVANO JOSE ANTONIO  <pre>      </pre><pre>      </pre>X   "
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "label": "Anotaci&oacute;n Nro: 2",
+                    "children": [
+                        {
+                            "label": "Fecha: 16/03/1988"
+                        },
+                        {
+                            "label": "Radicaci&oacute;n: 1988-132-6-538"
+                        },
+                        {
+                            "label": "Documento: "
+                        },
+                        {
+                            "label": "ESCRITURA 281 DEL 1988-03-16 00:00:00  NOTARIA DE STDER DE QUILICHAO"
+                        },
+                        {
+                            "label": "ValorActo: 1.000.000"
+                        },
+                        {
+                            "label": "Comentarios",
+                            "children": [
+                                {
+                                    "label": "COMPRAVENTA  (MODO DE ADQUISICION)"
+                                }
+                            ]
+                        },
+                        {
+                            "label": "Personas que Intervienen en el acto",
+                            "children": [
+                                {
+                                    "label": "DE: TOLA LIEVANO JOSE ANTONIO  <pre>      </pre><pre>      </pre>   "
+                                },
+                                {
+                                    "label": "A: LOZADA PABLO EMILIO  <pre>      </pre><pre>      </pre>X   "
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "label": "ADJUDICACION EN SUCESION",
+            "children": [
+                {
+                    "label": "Anotaci&oacute;n Nro: 5",
+                    "children": [
+                        {
+                            "label": "Fecha: 24/08/2016"
+                        },
+                        {
+                            "label": "Radicaci&oacute;n: 2016-132-6-3036"
+                        },
+                        {
+                            "label": "Documento: "
+                        },
+                        {
+                            "label": "ESCRITURA 1242 DEL 2016-07-19 00:00:00  NOTARIA UNICA DE SANTANDER DE QUILICHAO"
+                        },
+                        {
+                            "label": "ValorActo: 2.000.000"
+                        },
+                        {
+                            "label": "Comentarios",
+                            "children": [
+                                {
+                                    "label": "ADJUDICACION EN SUCESION  (MODO DE ADQUISICION)"
+                                }
+                            ]
+                        },
+                        {
+                            "label": "Personas que Intervienen en el acto",
+                            "children": [
+                                {
+                                    "label": "DE: LOZADA PABLO EMILIO  <pre>      </pre>CC 1457801<pre>      </pre>   "
+                                },
+                                {
+                                    "label": "A: LOZADA GRIZALES DELMER IVAN  <pre>      </pre>CC 10485897<pre>      </pre>X   "
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "label": "ACLARACION",
+            "children": [
+                {
+                    "label": "Anotaci&oacute;n Nro: 6",
+                    "children": [
+                        {
+                            "label": "Fecha: 28/09/2016"
+                        },
+                        {
+                            "label": "Radicaci&oacute;n: 2016-132-6-3543"
+                        },
+                        {
+                            "label": "Documento: "
+                        },
+                        {
+                            "label": "ESCRITURA 1723 DEL 2016-09-16 00:00:00  NOTARIA UNICA DE SANTANDER DE QUILICHAO"
+                        },
+                        {
+                            "label": "ValorActo: "
+                        },
+                        {
+                            "label": "Comentarios",
+                            "children": [
+                                {
+                                    "label": "ACLARACION SEGUN CERTIFICADO DEL IGAC #3088824 DEL 05-07-2016 DONDE CERTIFICA QUE EL AREA DEL PREDIO ES DE 3H 0583 M2. (OTRO)"
+                                }
+                            ]
+                        },
+                        {
+                            "label": "Personas que Intervienen en el acto",
+                            "children": [
+                                {
+                                    "label": ""
+                                },
+                                {
+                                    "label": "A: LOZADA PABLO EMILIO  <pre>      </pre>CC 1457801<pre>      </pre>X   "
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "label": "ENGLOBE",
+            "children": [
+                {
+                    "label": "Anotaci&oacute;n Nro: 7",
+                    "children": [
+                        {
+                            "label": "Fecha: 28/09/2016"
+                        },
+                        {
+                            "label": "Radicaci&oacute;n: 2016-132-6-3543"
+                        },
+                        {
+                            "label": "Documento: "
+                        },
+                        {
+                            "label": "ESCRITURA 1723 DEL 2016-09-16 00:00:00  NOTARIA UNICA DE SANTANDER DE QUILICHAO"
+                        },
+                        {
+                            "label": "ValorActo: "
+                        },
+                        {
+                            "label": "Comentarios",
+                            "children": [
+                                {
+                                    "label": "ENGLOBE CON LOS FOLIOS #S 15737 Y 28367 (OTRO)"
+                                }
+                            ]
+                        },
+                        {
+                            "label": "Personas que Intervienen en el acto",
+                            "children": [
+                                {
+                                    "label": ""
+                                },
+                                {
+                                    "label": "A: LOZADA PABLO EMILIO  <pre>      </pre>CC 1457801<pre>      </pre>X   "
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "label": "HIPOTECA",
+            "children": [
+                {
+                    "label": "Anotaci&oacute;n Nro: 3",
+                    "children": [
+                        {
+                            "label": "Fecha: 16/03/1988"
+                        },
+                        {
+                            "label": "Radicaci&oacute;n: 1988-132-6-538"
+                        },
+                        {
+                            "label": "Documento: "
+                        },
+                        {
+                            "label": "ESCRITURA 281 DEL 1988-03-16 00:00:00  NOTARIA DE STDER DE QUILICHAO"
+                        },
+                        {
+                            "label": "ValorActo: "
+                        },
+                        {
+                            "label": "Comentarios",
+                            "children": [
+                                {
+                                    "label": "HIPOTECA ABIERTA INDETERMINADA PARA REGISTRO  1000000  (GRAVAMEN)"
+                                }
+                            ]
+                        },
+                        {
+                            "label": "Personas que Intervienen en el acto",
+                            "children": [
+                                {
+                                    "label": "DE: LOZADA PABLO EMILIO  <pre>      </pre><pre>      </pre>   "
+                                },
+                                {
+                                    "label": "A: CAJA DE CREDITO AGRARIO   <pre>      </pre><pre>      </pre>   "
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

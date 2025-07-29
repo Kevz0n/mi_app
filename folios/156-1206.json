@@ -1,0 +1,946 @@
+{
+    "fecha": "20/11/2023",
+    "hora": "12:12 PM",
+    "numeroConsulta": "501068366",
+    "circulo": "156",
+    "numeroMatricula": "1206",
+    "referenciaCatastral": "BAA0002DBYB",
+    "referenciaCatastralAnterior": "252690100000001440035000000000",
+    "cedulaCatastral": "BAA0002DBYB",
+    "departamento": {
+        "id": "25",
+        "nombre": "CUNDINAMARCA"
+    },
+    "municipio": {
+        "id": 269,
+        "nombre": "FACATATIVA"
+    },
+    "vereda": "FACATATIVA",
+    "direccion": "CARRERA 4  #11-64",
+    "direccionesAnteriores": [
+        "CARRERA 4 11-68",
+        "CARRERA 4. 11-64",
+        "CARRERA 4. 10-64 ..............CASA LOTE HOY"
+    ],
+    "fechaAperturaFolio": "25/01/1977",
+    "tipoInstrumento": "DOCUMENTO",
+    "fechaInstrumento": "25/01/1977",
+    "estadoFolio": "ACTIVO",
+    "matriculasMatriz": [],
+    "matriculasDerivadas": [],
+    "tipoPredio": "URBANO",
+    "propietarios": [
+        {
+            "nombre": "MARIA ELSA MAHECHA LEON ",
+            "tipoDocumento": {
+                "id": "CC",
+                "nombre": "CÉDULA CIUDADANÍA"
+            },
+            "numeroDocumento": "21112292",
+            "titular": "X"
+        }
+    ],
+    "complementaciones": "PRIETO PE\\A GRACIELA, PRIETO PE\\A VICTOR JULIO, PRIETO PE\\A CARLOS ENRIQUE, PRIETO PE\\A BERNARDO ENRIQUE, PRIETO PE\\A MARIA DEL CARMEN, ADQUIRIERON EN MAYOR EXTENSION JUNTO CON PE\\A VDA.DE PRIETO MARIA ADELIA, POR ADJUDICACION EN EL JUICIO DE SUCESION DE BERNARDO ENRIQUE PRIETO REG.L.1.T.2.A.#277 DE MARZO 29 DE 1976.==. EL CAUSANTE ADQUIRIO JUNTO CON MARIA ADELIA PE\\A DE PRIETO ASI: PARTE POR COMPRA A JOSE MARIN POR ESC.#40 DE ENERO 13 DE 1950, NOTARIA DE FACATATIVA.==. Y OTRO LOTE POR LA MISMA ESC.#40 DE ENERO 13 DE 1950, DE LA NOTARIA DE FACATATIVA.==.",
+    "linderos": "POR EL FRENTE O SUR, LA CARRETERA CUARTE EN EXTENSION DE 9 METROS, POR EL COSTADO ORIENTAL, EN EXTENSION DE 20 METROS, DIEZ METROS CON LA PLAZOLETA, DE PROPIEDAD DEL MUNICIPIO Y 10 METROS CON PROPIEDAD DE HEREDEROS DE CEFERINO ROZO, POR EL NORTE, EN EXTENSION DE NUEVE METROS CON PROPIEDADES QUE SON O FUERON DE LOS HEREDEROS DE CARMEN VIVAS, Y POR EL OCCIDENTE, EN EXTENSION DE 20 METROS CON LOTE QUE DE COMUN ACUERDO ENTRE LOS COMUNEROS LE FUE VENDIDO AL SE\\OR JORGE ELIECER SANCHEZ CARRILLO Y ENCIERRA.==.",
+    "salvedades": [
+        {
+            "numeroAnotacion": "0",
+            "numeroCorreccion": "1",
+            "fechaSalvedad": "01/10/2009",
+            "radicacionSalvedad": "C2009-420",
+            "descripcion": "SE ACTUALIZA FICHA CATASTRAL CON LA SUMINISTRADA POR EL I.G.A.C., SEGUN RES. NO. 8589 DE 27-11-2008 PROFERIDA POR LA S.N.R (CONVENIO IGAC-SNR DE 23-09-2008)"
+        },
+        {
+            "numeroAnotacion": "0",
+            "numeroCorreccion": "2",
+            "fechaSalvedad": "03/04/2014",
+            "radicacionSalvedad": "C2014-238",
+            "descripcion": "SE INCLUYE NUEVO NUMERO PREDIAL DE 30 DIGITOS SUMINISTRADO POR EL I.G.A.C. (SNC), RES. NO. 8589 DE 27-11-2008 PROFERIDA POR LA S.N.R (CONVENIO IGAC-SNR DE 23-09-2008)"
+        },
+        {
+            "numeroAnotacion": "0",
+            "numeroCorreccion": "3",
+            "radicacionAnotacion": "ICARE-2023",
+            "fechaSalvedad": "02/09/2023",
+            "descripcion": "SE INCLUYE/ACTUALIZA CHIP/FICHA CATASTRAL, CON LOS SUMINISTRADOS POR EL G.C. DE LA ACC, RES. 70 DEL 10-11-2021 PROFERIDA POR ESA ENTIDAD, RES. NO. 09089 DE 29/10/2020 EXPEDIDA POR LA S.N.R."
+        }
+    ],
+    "consulta": "501068455",
+    "textoAnotaciones": [
+        "ANOTACION: Nro 1 Fecha: 25-01-1977 Radicación: SN<br>Doc: ESCRITURA 1198 del 1976-12-03 00:00:00  NOTARIA de FACATATIVA          VALOR ACTO: $<br/>ESPECIFICACION: 106 DIVISION MATERIAL <br/>PERSONAS QUE INTERVIENEN EN EL ACTO (X-Titular de derecho real de dominio,I-Titular de dominio incompleto)<br/>DE: PRIETO PE\\A GRACIELA             <br/>DE: PRIETO PE\\A VICTOR JULIO             <br/>DE: PRIETO PA\\A CARLOS ENRIQUE             <br/>DE: PRIETO PE\\A MARIA DEL CARMEN             <br/>DE: PRIETO PE\\A BERNARDO ENRIQUE             <br/>A: PE\\A VDA.DE PRIETO MARIA ADELIA    X   ",
+        "ANOTACION: Nro 2 Fecha: 03-01-1990 Radicación: 025<br>Doc: RESOLUCION 05 del 1989-07-17 00:00:00  FONDO ROT.DE VALO.MPAL de FACATATIVA          VALOR ACTO: $<br/>ESPECIFICACION: 380 VALORIZACION <br/>PERSONAS QUE INTERVIENEN EN EL ACTO (X-Titular de derecho real de dominio,I-Titular de dominio incompleto)<br/>DE: FONDO ROTATORIO DE VALORIZACION MUNICIPAL FACATATIVA              <br/>A: PE\\A VDA DE PRIETO MARIA A.    X   ",
+        "ANOTACION: Nro 3 Fecha: 09-02-1990 Radicación: 800<br>Doc: OFICIO 044 del 1990-02-07 00:00:00  FONDO ROT.DE VALORIZ.MPAL de FACATATIVA          VALOR ACTO: $<br>    Se cancela anotación No: 2<br/>ESPECIFICACION: 780 CANCELACION VALORIZACION <br/>PERSONAS QUE INTERVIENEN EN EL ACTO (X-Titular de derecho real de dominio,I-Titular de dominio incompleto)<br/>DE: FONDO ROTATORIO DE VALORIZACION MUNICIPAL FACATATIVA              <br/>A: PE\\A VDA. DE PRIETO MARIA ADELIA    X   ",
+        "ANOTACION: Nro 4 Fecha: 25-05-1990 Radicación: 3058<br>Doc: ESCRITURA 581 del 1990-04-20 00:00:00  NOTARIA de FACATATIVA          VALOR ACTO: $750.000<br/>ESPECIFICACION: 101 VENTA <br/>PERSONAS QUE INTERVIENEN EN EL ACTO (X-Titular de derecho real de dominio,I-Titular de dominio incompleto)<br/>DE: PE\\A DE PRIETO MARIA ADELIA             <br/>A: CASALLAS DE MELO CARMEN SOFIA   CC 20521681 X   ",
+        "ANOTACION: Nro 5 Fecha: 11-09-1991 Radicación: 6441<br>Doc: ESCRITURA 2122 del 1991-09-06 00:00:00  NOTARIA de FACATATIVA          VALOR ACTO: $1.600.000<br/>ESPECIFICACION: 101 VENTA <br/>PERSONAS QUE INTERVIENEN EN EL ACTO (X-Titular de derecho real de dominio,I-Titular de dominio incompleto)<br/>DE: CASALLAS DE MELO CARMEN SOFIA      CC 20521681       <br/>A: PRIETO DE CAICEDO MARIA DEL CARMEN    X   ",
+        "ANOTACION: Nro 6 Fecha: 03-08-1992 Radicación: 5230<br>Doc: ESCRITURA 1578 del 1992-07-15 00:00:00  NOTARIA de FACATATIVA          VALOR ACTO: $2.300.000<br/>ESPECIFICACION: 101 VENTA <br/>PERSONAS QUE INTERVIENEN EN EL ACTO (X-Titular de derecho real de dominio,I-Titular de dominio incompleto)<br/>DE: PRIETO CAICEDO MARIA DEL CARMEN             <br/>A: CORTES GUEVARA JOSE BALTAZAR   CC 17022604 X   <br/>A: CRISTANCHO VERA JOSE ARQUIMIDES    X   ",
+        "ANOTACION: Nro 7 Fecha: 05-04-1993 Radicación: 2447<br>Doc: ESCRITURA 347 del 1993-02-18 00:00:00  NOTARIA de FACATATIVA          VALOR ACTO: $4.227.000<br/>ESPECIFICACION: 101 VENTA <br/>PERSONAS QUE INTERVIENEN EN EL ACTO (X-Titular de derecho real de dominio,I-Titular de dominio incompleto)<br/>DE: CRISTANCHO VERA JOSE ARQUIMEDES      CC 3012719       <br/>DE: CORTES GUEVARA JOSE BALTAZAR      CC 17022604       <br/>A: ORJUELA HUERTAS JULIO CESAR   CC 2977672 X   <br/>A: GUTIERREZ DE ORJUELA ANSELMA   CC 20426399 X   ",
+        "ANOTACION: Nro 8 Fecha: 28-11-1995 Radicación: 10262<br>Doc: ESCRITURA 2642 del 1995-11-20 00:00:00  NOTARIA 1. de FACATATIVA          VALOR ACTO: $6.100.000<br/>ESPECIFICACION: 101 VENTA <br/>PERSONAS QUE INTERVIENEN EN EL ACTO (X-Titular de derecho real de dominio,I-Titular de dominio incompleto)<br/>DE: ORJUELA HUERTAS JULIO CESAR      CC 2977672       <br/>DE: GUTIERREZ DE ORJUELA ANSELMA      CC 20426399       <br/>A: DIAZ BALLEN JOSE PABLO    X   ",
+        "ANOTACION: Nro 9 Fecha: 27-08-1996 Radicación: 7487<br>Doc: ESCRITURA 1500 del 1996-08-01 00:00:00  NOTARIA 2. de FACATATIVA          VALOR ACTO: $16.857.000<br/>ESPECIFICACION: 313 VENTA NUDA PROPIEDAD <br/>PERSONAS QUE INTERVIENEN EN EL ACTO (X-Titular de derecho real de dominio,I-Titular de dominio incompleto)<br/>DE: DIAZ BALLEN JOSE PABLO             <br/>A: DIAZ RODRIGUEZ VIDAL   CC 11432456 X   <br/>A: DIAZ RODRIGUEZ LEONOR   CC 20524001 X   <br/>A: DIAZ RODRIGUEZ ESPERANZA   CC 20525081 X   <br/>A: DIAZ RODRIGUEZ BLANCA MYRIAM   CC 35518323 X   <br/>A: DIAZ RODRIGUEZ RUTH CARMENZA   CC 35522579 X   <br/>A: DIAZ RODRIGUEZ ROSALIA   CC 41394317 X   <br/>A: DIAZ RODRIGUEZ ANGEL MARIA    X   ",
+        "ANOTACION: Nro 10 Fecha: 27-08-1996 Radicación: 7487<br>Doc: ESCRITURA 1500 del 1996-08-01 00:00:00  NOTARIA 2. de FACATATIVA          VALOR ACTO: $<br/>ESPECIFICACION: 310 RESERVA USUFRUCTO (CON OTRO) <br/>PERSONAS QUE INTERVIENEN EN EL ACTO (X-Titular de derecho real de dominio,I-Titular de dominio incompleto)<br/>A: DIAZ BALLEN JOSE PABLO       ",
+        "ANOTACION: Nro 11 Fecha: 07-10-1996 Radicación: 8871<br>Doc: ESCRITURA 1442 del 1996-09-25 00:00:00  NOTARIA 2. de FACATATIVA          VALOR ACTO: $<br/>ESPECIFICACION: 114 CONSOLIDACION  NUDA PROPIEDAD <br/>PERSONAS QUE INTERVIENEN EN EL ACTO (X-Titular de derecho real de dominio,I-Titular de dominio incompleto)<br/>DE: DIAZ BALLEN JOSE PABLO             <br/>A: DIAZ RODRIGUEZ VIDAL   CC 11432456 X   <br/>A: DIAZ RODRIGUEZ LEONOR   CC 20524001 X   <br/>A: DIAZ RODRIGUEZ ESPERANZA   CC 20525081 X   <br/>A: DIAZ RODRIGUEZ RUTH CARMENZA   CC 35522579 X   <br/>A: DIAZ RODRIGUEZ ROSALIA   CC 41394317 X   <br/>A: DIAZ RODRIGUEZ BLANCA MYIRIAM    X   <br/>A: DIAZ RODRIGUEZ ANGEL MARIA    X   ",
+        "ANOTACION: Nro 12 Fecha: 09-01-1998 Radicación: 173<br>Doc: ESCRITURA 2774 del 1997-12-24 00:00:00  NOTARIA 2. de FACATATIVA          VALOR ACTO: $41.500.000<br/>ESPECIFICACION: 101 VENTA <br/>PERSONAS QUE INTERVIENEN EN EL ACTO (X-Titular de derecho real de dominio,I-Titular de dominio incompleto)<br/>DE: DIAZ RODRIGUEZ VIDAL      CC 11432456       <br/>DE: DIAZ RODRIGUEZ LEONOR      CC 20524001       <br/>DE: DIAZ RODRIGUEZ ESPERANZA      CC 20525081       <br/>DE: DIAZ RODRIGUEZ BLANCA MYRIAM      CC 35518323       <br/>DE: DIAZ RODRIGUEZ ROSALIA      CC 41394317       <br/>DE: DIAZ RODRIGUEZ ANGEL MARIA             <br/>DE: DIAZ RODRIGUEZ RUHT CARMENZA             <br/>A: MURCIA HILARION PEDRO EFRAIN   CC 11428881 X   ",
+        "ANOTACION: Nro 13 Fecha: 09-01-1998 Radicación: 173<br>Doc: ESCRITURA 2774 del 1997-12-24 00:00:00  NOTARIA 2. de FACATATIVA          VALOR ACTO: $<br/>ESPECIFICACION: 210 HIPOTECA ABIERTA DE CUANTIA INDETERMINADA <br/>PERSONAS QUE INTERVIENEN EN EL ACTO (X-Titular de derecho real de dominio,I-Titular de dominio incompleto)<br/>DE: MURCIA HILARION PEDRO EFRAIN      CC 11428881    X   <br/>A: CORPORACION GRAN COLOMBIANA DE AHORRO Y VIVIENDA &quot;GRANAHORRAR&quot;        ",
+        "ANOTACION: Nro 14 Fecha: 15-07-1998 Radicación: 1998-6271<br>Doc: ESCRITURA 1480 del 1998-07-14 00:00:00  NOTARIA 2A de FACATATIVA          VALOR ACTO: $21.000.000<br/>ESPECIFICACION: 101 COMPRAVENTA <br/>PERSONAS QUE INTERVIENEN EN EL ACTO (X-Titular de derecho real de dominio,I-Titular de dominio incompleto)<br/>DE: MURCIA HILARION PEDRO EFRAIN      CC 11428881       <br/>A: BUSTOS RODRIGUEZ LUIS GONZALO   CC 3246295 X   <br/>A: MAHECHA LEON MARIA ELSA   CC 21112292 X   ",
+        "ANOTACION: Nro 15 Fecha: 24-11-1999 Radicación: 1999-9520<br>Doc: OFICIO 801 del 1999-11-16 00:00:00  JUZGADO SEGUNDO CIVIL MUNICIPAL de FACATATIVA          VALOR ACTO: $<br/>ESPECIFICACION: 402 EMBARGO ACCION REAL <br/>PERSONAS QUE INTERVIENEN EN EL ACTO (X-Titular de derecho real de dominio,I-Titular de dominio incompleto)<br/>DE: GRANAHORRAR              <br/>A: BUSTOS RODRIGUEZ LUIS GONZALO   CC 3246295 X   <br/>A: MAHECHA DE LEON MARIA ELSA    X   ",
+        "ANOTACION: Nro 16 Fecha: 19-04-2013 Radicación: 2013-4149<br>Doc: ESCRITURA 692 del 2013-04-09 00:00:00  NOTARIA PRIMERA de FACATATIVA          VALOR ACTO: $<br>    Se cancela anotación No: 13<br/>ESPECIFICACION: 0843 CANCELACION POR VOLUNTAD DE LAS PARTES -DE HIPOTECA- (CANCELACION POR VOLUNTAD DE LAS PARTES)<br/>PERSONAS QUE INTERVIENEN EN EL ACTO (X-Titular de derecho real de dominio,I-Titular de dominio incompleto)<br/>DE: CORPORACION GRANCOLOMBIANA DE AHORRO Y VIVIENDA GRANAHORRAR HOY BANCO BILBAO VIZCAYA ARGENTARIA COLOMBIA S.A.              <br/>A: MURCIA HILARION PEDRO EFRAIN   CC 11428881    ",
+        "ANOTACION: Nro 17 Fecha: 14-11-2013 Radicación: 2013-12396<br>Doc: OFICIO 706 del 2013-11-14 00:00:00  JUZGADO 001  CIVIL  MUNICIPAL de FACATATIVA          VALOR ACTO: $<br>    Se cancela anotación No: 15<br/>ESPECIFICACION: 0841 CANCELACION PROVIDENCIA JUDICIAL PROCESO 0310 (CANCELACION PROVIDENCIA JUDICIAL)<br/>PERSONAS QUE INTERVIENEN EN EL ACTO (X-Titular de derecho real de dominio,I-Titular de dominio incompleto)<br/>DE: GRANAHORRAR              <br/>A: BUSTOS RODRIGUEZ LUIS GONZALO   CC 3246295 X   <br/>A: MAHECHA LEON MARIA ELSA   CC 21112292 X   ",
+        "ANOTACION: Nro 18 Fecha: 21-04-2023 Radicación: 2023-4634<br>Doc: CERTIFICADO SN del 2023-03-31 00:00:00  ALCALDIA DE FACATATIVA de FACATATIVA          VALOR ACTO: $<br/>ESPECIFICACION: 0904 ACTUALIZACION DE NOMENCLATURA  (ACTUALIZACION DE NOMENCLATURA)<br/>PERSONAS QUE INTERVIENEN EN EL ACTO (X-Titular de derecho real de dominio,I-Titular de dominio incompleto)<br/>DE: ALCALDIA DE FACATATIVA              ",
+        "ANOTACION: Nro 19 Fecha: 01-11-2023 Radicación: 2023-13781<br>Doc: ESCRITURA 1635 del 2023-10-17 00:00:00  NOTARIA PRIMERA de FACATATIVA          VALOR ACTO: $<br/>ESPECIFICACION: 0112 ADJUDICACION LIQUIDACION SOCIEDAD CONYUGAL  (ADJUDICACION LIQUIDACION SOCIEDAD CONYUGAL)<br/>PERSONAS QUE INTERVIENEN EN EL ACTO (X-Titular de derecho real de dominio,I-Titular de dominio incompleto)<br/>DE: BUSTOS RODRIGUEZ LUIS GONZALO      CC 3246295       <br/>DE: MAHECHA LEON MARIA ELSA      CC 21112292       <br/>A: MAHECHA LEON MARIA ELSA   CC 21112292 X   "
+    ],
+    "arbolAnotaciones": [
+        {
+            "label": "ACTUALIZACION DE NOMENCLATURA",
+            "children": [
+                {
+                    "label": "Anotaci&oacute;n Nro: 18",
+                    "children": [
+                        {
+                            "label": "Fecha: 21/04/2023"
+                        },
+                        {
+                            "label": "Radicaci&oacute;n: 2023-4634"
+                        },
+                        {
+                            "label": "Documento: "
+                        },
+                        {
+                            "label": "CERTIFICADO SN del 2023-03-31 00:00:00  ALCALDIA DE FACATATIVA de FACATATIVA"
+                        },
+                        {
+                            "label": "ValorActo: "
+                        },
+                        {
+                            "label": "Comentarios",
+                            "children": [
+                                {
+                                    "label": "ACTUALIZACION DE NOMENCLATURA  (ACTUALIZACION DE NOMENCLATURA)"
+                                }
+                            ]
+                        },
+                        {
+                            "label": "Personas que Intervienen en el acto",
+                            "children": [
+                                {
+                                    "label": "DE: ALCALDIA DE FACATATIVA   <pre>      </pre><pre>      </pre>   "
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "label": "CONSOLIDACION DE NUDA PROPIEDAD",
+            "children": [
+                {
+                    "label": "Anotaci&oacute;n Nro: 11",
+                    "children": [
+                        {
+                            "label": "Fecha: 07/10/1996"
+                        },
+                        {
+                            "label": "Radicaci&oacute;n: 8871"
+                        },
+                        {
+                            "label": "Documento: "
+                        },
+                        {
+                            "label": "ESCRITURA 1442 del 1996-09-25 00:00:00  NOTARIA 2. de FACATATIVA"
+                        },
+                        {
+                            "label": "ValorActo: "
+                        },
+                        {
+                            "label": "Comentarios",
+                            "children": [
+                                {
+                                    "label": "CONSOLIDACION  NUDA PROPIEDAD "
+                                }
+                            ]
+                        },
+                        {
+                            "label": "Personas que Intervienen en el acto",
+                            "children": [
+                                {
+                                    "label": "DE: DIAZ BALLEN JOSE PABLO  <pre>      </pre><pre>      </pre>   "
+                                },
+                                {
+                                    "label": "A: DIAZ RODRIGUEZ VIDAL  <pre>      </pre>CC 11432456<pre>      </pre>X   "
+                                },
+                                {
+                                    "label": "A: DIAZ RODRIGUEZ LEONOR  <pre>      </pre>CC 20524001<pre>      </pre>X   "
+                                },
+                                {
+                                    "label": "A: DIAZ RODRIGUEZ ESPERANZA  <pre>      </pre>CC 20525081<pre>      </pre>X   "
+                                },
+                                {
+                                    "label": "A: DIAZ RODRIGUEZ RUTH CARMENZA  <pre>      </pre>CC 35522579<pre>      </pre>X   "
+                                },
+                                {
+                                    "label": "A: DIAZ RODRIGUEZ ROSALIA  <pre>      </pre>CC 41394317<pre>      </pre>X   "
+                                },
+                                {
+                                    "label": "A: DIAZ RODRIGUEZ BLANCA MYIRIAM  <pre>      </pre><pre>      </pre>X   "
+                                },
+                                {
+                                    "label": "A: DIAZ RODRIGUEZ ANGEL MARIA  <pre>      </pre><pre>      </pre>X   "
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "label": "ADJUDICACION EN LIQUIDACION DE COMUNIDAD",
+            "children": [
+                {
+                    "label": "Anotaci&oacute;n Nro: 1",
+                    "children": [
+                        {
+                            "label": "Fecha: 25/01/1977"
+                        },
+                        {
+                            "label": "Radicaci&oacute;n: SN"
+                        },
+                        {
+                            "label": "Documento: "
+                        },
+                        {
+                            "label": "ESCRITURA 1198 del 1976-12-03 00:00:00  NOTARIA de FACATATIVA"
+                        },
+                        {
+                            "label": "ValorActo: "
+                        },
+                        {
+                            "label": "Comentarios",
+                            "children": [
+                                {
+                                    "label": "DIVISION MATERIAL "
+                                }
+                            ]
+                        },
+                        {
+                            "label": "Personas que Intervienen en el acto",
+                            "children": [
+                                {
+                                    "label": "DE: PRIETO PE\\A GRACIELA  <pre>      </pre><pre>      </pre>   DE: PRIETO PE\\A VICTOR JULIO  <pre>      </pre><pre>      </pre>   DE: PRIETO PA\\A CARLOS ENRIQUE  <pre>      </pre><pre>      </pre>   DE: PRIETO PE\\A MARIA DEL CARMEN  <pre>      </pre><pre>      </pre>   DE: PRIETO PE\\A BERNARDO ENRIQUE  <pre>      </pre><pre>      </pre>   "
+                                },
+                                {
+                                    "label": "A: PE\\A VDA.DE PRIETO MARIA ADELIA  <pre>      </pre><pre>      </pre>X   "
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "label": "AFECTACION DE INENAJENABILIDAD",
+            "children": [
+                {
+                    "label": "Anotaci&oacute;n Nro: 2",
+                    "children": [
+                        {
+                            "label": "Fecha: 03/01/1990"
+                        },
+                        {
+                            "label": "Radicaci&oacute;n: 025"
+                        },
+                        {
+                            "label": "Documento: "
+                        },
+                        {
+                            "label": "RESOLUCION 05 del 1989-07-17 00:00:00  FONDO ROT.DE VALO.MPAL de FACATATIVA"
+                        },
+                        {
+                            "label": "ValorActo: "
+                        },
+                        {
+                            "label": "Comentarios",
+                            "children": [
+                                {
+                                    "label": "VALORIZACION "
+                                }
+                            ]
+                        },
+                        {
+                            "label": "Personas que Intervienen en el acto",
+                            "children": [
+                                {
+                                    "label": "DE: FONDO ROTATORIO DE VALORIZACION MUNICIPAL FACATATIVA   <pre>      </pre><pre>      </pre>   "
+                                },
+                                {
+                                    "label": "A: PE\\A VDA DE PRIETO MARIA A.  <pre>      </pre><pre>      </pre>X   "
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "label": "NUDA PROPIEDAD",
+            "children": [
+                {
+                    "label": "Anotaci&oacute;n Nro: 9",
+                    "children": [
+                        {
+                            "label": "Fecha: 27/08/1996"
+                        },
+                        {
+                            "label": "Radicaci&oacute;n: 7487"
+                        },
+                        {
+                            "label": "Documento: "
+                        },
+                        {
+                            "label": "ESCRITURA 1500 del 1996-08-01 00:00:00  NOTARIA 2. de FACATATIVA"
+                        },
+                        {
+                            "label": "ValorActo: 16.857.000"
+                        },
+                        {
+                            "label": "Comentarios",
+                            "children": [
+                                {
+                                    "label": "VENTA NUDA PROPIEDAD "
+                                }
+                            ]
+                        },
+                        {
+                            "label": "Personas que Intervienen en el acto",
+                            "children": [
+                                {
+                                    "label": "DE: DIAZ BALLEN JOSE PABLO  <pre>      </pre><pre>      </pre>   "
+                                },
+                                {
+                                    "label": "A: DIAZ RODRIGUEZ VIDAL  <pre>      </pre>CC 11432456<pre>      </pre>X   "
+                                },
+                                {
+                                    "label": "A: DIAZ RODRIGUEZ LEONOR  <pre>      </pre>CC 20524001<pre>      </pre>X   "
+                                },
+                                {
+                                    "label": "A: DIAZ RODRIGUEZ ESPERANZA  <pre>      </pre>CC 20525081<pre>      </pre>X   "
+                                },
+                                {
+                                    "label": "A: DIAZ RODRIGUEZ BLANCA MYRIAM  <pre>      </pre>CC 35518323<pre>      </pre>X   "
+                                },
+                                {
+                                    "label": "A: DIAZ RODRIGUEZ RUTH CARMENZA  <pre>      </pre>CC 35522579<pre>      </pre>X   "
+                                },
+                                {
+                                    "label": "A: DIAZ RODRIGUEZ ROSALIA  <pre>      </pre>CC 41394317<pre>      </pre>X   "
+                                },
+                                {
+                                    "label": "A: DIAZ RODRIGUEZ ANGEL MARIA  <pre>      </pre><pre>      </pre>X   "
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "label": "HIPOTECA DE CUERPO CIERTO",
+            "children": [
+                {
+                    "label": "Anotaci&oacute;n Nro: 13",
+                    "children": [
+                        {
+                            "label": "Fecha: 09/01/1998"
+                        },
+                        {
+                            "label": "Radicaci&oacute;n: 173"
+                        },
+                        {
+                            "label": "Documento: "
+                        },
+                        {
+                            "label": "ESCRITURA 2774 del 1997-12-24 00:00:00  NOTARIA 2. de FACATATIVA"
+                        },
+                        {
+                            "label": "ValorActo: "
+                        },
+                        {
+                            "label": "Comentarios",
+                            "children": [
+                                {
+                                    "label": "HIPOTECA ABIERTA DE CUANTIA INDETERMINADA "
+                                }
+                            ]
+                        },
+                        {
+                            "label": "Personas que Intervienen en el acto",
+                            "children": [
+                                {
+                                    "label": "DE: MURCIA HILARION PEDRO EFRAIN  <pre>      </pre>CC 11428881<pre>      </pre>X   "
+                                },
+                                {
+                                    "label": "A: CORPORACION GRAN COLOMBIANA DE AHORRO Y VIVIENDA &quot;GRANAHORRAR&quot;   <pre>      </pre><pre>      </pre>   "
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "label": "EMBARGO ACCION REAL",
+            "children": [
+                {
+                    "label": "Anotaci&oacute;n Nro: 15",
+                    "children": [
+                        {
+                            "label": "Fecha: 24/11/1999"
+                        },
+                        {
+                            "label": "Radicaci&oacute;n: 1999-9520"
+                        },
+                        {
+                            "label": "Documento: "
+                        },
+                        {
+                            "label": "OFICIO 801 del 1999-11-16 00:00:00  JUZGADO SEGUNDO CIVIL MUNICIPAL de FACATATIVA"
+                        },
+                        {
+                            "label": "ValorActo: "
+                        },
+                        {
+                            "label": "Comentarios",
+                            "children": [
+                                {
+                                    "label": "EMBARGO ACCION REAL "
+                                }
+                            ]
+                        },
+                        {
+                            "label": "Personas que Intervienen en el acto",
+                            "children": [
+                                {
+                                    "label": "DE: GRANAHORRAR   <pre>      </pre><pre>      </pre>   "
+                                },
+                                {
+                                    "label": "A: BUSTOS RODRIGUEZ LUIS GONZALO  <pre>      </pre>CC 3246295<pre>      </pre>X   "
+                                },
+                                {
+                                    "label": "A: MAHECHA DE LEON MARIA ELSA  <pre>      </pre><pre>      </pre>X   "
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "label": "COMPRAVENTA",
+            "children": [
+                {
+                    "label": "Anotaci&oacute;n Nro: 4",
+                    "children": [
+                        {
+                            "label": "Fecha: 25/05/1990"
+                        },
+                        {
+                            "label": "Radicaci&oacute;n: 3058"
+                        },
+                        {
+                            "label": "Documento: "
+                        },
+                        {
+                            "label": "ESCRITURA 581 del 1990-04-20 00:00:00  NOTARIA de FACATATIVA"
+                        },
+                        {
+                            "label": "ValorActo: 750.000"
+                        },
+                        {
+                            "label": "Comentarios",
+                            "children": [
+                                {
+                                    "label": "VENTA "
+                                }
+                            ]
+                        },
+                        {
+                            "label": "Personas que Intervienen en el acto",
+                            "children": [
+                                {
+                                    "label": "DE: PE\\A DE PRIETO MARIA ADELIA  <pre>      </pre><pre>      </pre>   "
+                                },
+                                {
+                                    "label": "A: CASALLAS DE MELO CARMEN SOFIA  <pre>      </pre>CC 20521681<pre>      </pre>X   "
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "label": "Anotaci&oacute;n Nro: 5",
+                    "children": [
+                        {
+                            "label": "Fecha: 11/09/1991"
+                        },
+                        {
+                            "label": "Radicaci&oacute;n: 6441"
+                        },
+                        {
+                            "label": "Documento: "
+                        },
+                        {
+                            "label": "ESCRITURA 2122 del 1991-09-06 00:00:00  NOTARIA de FACATATIVA"
+                        },
+                        {
+                            "label": "ValorActo: 1.600.000"
+                        },
+                        {
+                            "label": "Comentarios",
+                            "children": [
+                                {
+                                    "label": "VENTA "
+                                }
+                            ]
+                        },
+                        {
+                            "label": "Personas que Intervienen en el acto",
+                            "children": [
+                                {
+                                    "label": "DE: CASALLAS DE MELO CARMEN SOFIA  <pre>      </pre>CC 20521681<pre>      </pre>   "
+                                },
+                                {
+                                    "label": "A: PRIETO DE CAICEDO MARIA DEL CARMEN  <pre>      </pre><pre>      </pre>X   "
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "label": "Anotaci&oacute;n Nro: 6",
+                    "children": [
+                        {
+                            "label": "Fecha: 03/08/1992"
+                        },
+                        {
+                            "label": "Radicaci&oacute;n: 5230"
+                        },
+                        {
+                            "label": "Documento: "
+                        },
+                        {
+                            "label": "ESCRITURA 1578 del 1992-07-15 00:00:00  NOTARIA de FACATATIVA"
+                        },
+                        {
+                            "label": "ValorActo: 2.300.000"
+                        },
+                        {
+                            "label": "Comentarios",
+                            "children": [
+                                {
+                                    "label": "VENTA "
+                                }
+                            ]
+                        },
+                        {
+                            "label": "Personas que Intervienen en el acto",
+                            "children": [
+                                {
+                                    "label": "DE: PRIETO CAICEDO MARIA DEL CARMEN  <pre>      </pre><pre>      </pre>   "
+                                },
+                                {
+                                    "label": "A: CORTES GUEVARA JOSE BALTAZAR  <pre>      </pre>CC 17022604<pre>      </pre>X   "
+                                },
+                                {
+                                    "label": "A: CRISTANCHO VERA JOSE ARQUIMIDES  <pre>      </pre><pre>      </pre>X   "
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "label": "Anotaci&oacute;n Nro: 7",
+                    "children": [
+                        {
+                            "label": "Fecha: 05/04/1993"
+                        },
+                        {
+                            "label": "Radicaci&oacute;n: 2447"
+                        },
+                        {
+                            "label": "Documento: "
+                        },
+                        {
+                            "label": "ESCRITURA 347 del 1993-02-18 00:00:00  NOTARIA de FACATATIVA"
+                        },
+                        {
+                            "label": "ValorActo: 4.227.000"
+                        },
+                        {
+                            "label": "Comentarios",
+                            "children": [
+                                {
+                                    "label": "VENTA "
+                                }
+                            ]
+                        },
+                        {
+                            "label": "Personas que Intervienen en el acto",
+                            "children": [
+                                {
+                                    "label": "DE: CRISTANCHO VERA JOSE ARQUIMEDES  <pre>      </pre>CC 3012719<pre>      </pre>   DE: CORTES GUEVARA JOSE BALTAZAR  <pre>      </pre>CC 17022604<pre>      </pre>   "
+                                },
+                                {
+                                    "label": "A: ORJUELA HUERTAS JULIO CESAR  <pre>      </pre>CC 2977672<pre>      </pre>X   "
+                                },
+                                {
+                                    "label": "A: GUTIERREZ DE ORJUELA ANSELMA  <pre>      </pre>CC 20426399<pre>      </pre>X   "
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "label": "Anotaci&oacute;n Nro: 8",
+                    "children": [
+                        {
+                            "label": "Fecha: 28/11/1995"
+                        },
+                        {
+                            "label": "Radicaci&oacute;n: 10262"
+                        },
+                        {
+                            "label": "Documento: "
+                        },
+                        {
+                            "label": "ESCRITURA 2642 del 1995-11-20 00:00:00  NOTARIA 1. de FACATATIVA"
+                        },
+                        {
+                            "label": "ValorActo: 6.100.000"
+                        },
+                        {
+                            "label": "Comentarios",
+                            "children": [
+                                {
+                                    "label": "VENTA "
+                                }
+                            ]
+                        },
+                        {
+                            "label": "Personas que Intervienen en el acto",
+                            "children": [
+                                {
+                                    "label": "DE: ORJUELA HUERTAS JULIO CESAR  <pre>      </pre>CC 2977672<pre>      </pre>   DE: GUTIERREZ DE ORJUELA ANSELMA  <pre>      </pre>CC 20426399<pre>      </pre>   "
+                                },
+                                {
+                                    "label": "A: DIAZ BALLEN JOSE PABLO  <pre>      </pre><pre>      </pre>X   "
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "label": "Anotaci&oacute;n Nro: 12",
+                    "children": [
+                        {
+                            "label": "Fecha: 09/01/1998"
+                        },
+                        {
+                            "label": "Radicaci&oacute;n: 173"
+                        },
+                        {
+                            "label": "Documento: "
+                        },
+                        {
+                            "label": "ESCRITURA 2774 del 1997-12-24 00:00:00  NOTARIA 2. de FACATATIVA"
+                        },
+                        {
+                            "label": "ValorActo: 41.500.000"
+                        },
+                        {
+                            "label": "Comentarios",
+                            "children": [
+                                {
+                                    "label": "VENTA "
+                                }
+                            ]
+                        },
+                        {
+                            "label": "Personas que Intervienen en el acto",
+                            "children": [
+                                {
+                                    "label": "DE: DIAZ RODRIGUEZ VIDAL  <pre>      </pre>CC 11432456<pre>      </pre>   DE: DIAZ RODRIGUEZ LEONOR  <pre>      </pre>CC 20524001<pre>      </pre>   DE: DIAZ RODRIGUEZ ESPERANZA  <pre>      </pre>CC 20525081<pre>      </pre>   DE: DIAZ RODRIGUEZ BLANCA MYRIAM  <pre>      </pre>CC 35518323<pre>      </pre>   DE: DIAZ RODRIGUEZ ROSALIA  <pre>      </pre>CC 41394317<pre>      </pre>   DE: DIAZ RODRIGUEZ ANGEL MARIA  <pre>      </pre><pre>      </pre>   DE: DIAZ RODRIGUEZ RUHT CARMENZA  <pre>      </pre><pre>      </pre>   "
+                                },
+                                {
+                                    "label": "A: MURCIA HILARION PEDRO EFRAIN  <pre>      </pre>CC 11428881<pre>      </pre>X   "
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "label": "Anotaci&oacute;n Nro: 14",
+                    "children": [
+                        {
+                            "label": "Fecha: 15/07/1998"
+                        },
+                        {
+                            "label": "Radicaci&oacute;n: 1998-6271"
+                        },
+                        {
+                            "label": "Documento: "
+                        },
+                        {
+                            "label": "ESCRITURA 1480 del 1998-07-14 00:00:00  NOTARIA 2A de FACATATIVA"
+                        },
+                        {
+                            "label": "ValorActo: 21.000.000"
+                        },
+                        {
+                            "label": "Comentarios",
+                            "children": [
+                                {
+                                    "label": "COMPRAVENTA "
+                                }
+                            ]
+                        },
+                        {
+                            "label": "Personas que Intervienen en el acto",
+                            "children": [
+                                {
+                                    "label": "DE: MURCIA HILARION PEDRO EFRAIN  <pre>      </pre>CC 11428881<pre>      </pre>   "
+                                },
+                                {
+                                    "label": "A: BUSTOS RODRIGUEZ LUIS GONZALO  <pre>      </pre>CC 3246295<pre>      </pre>X   "
+                                },
+                                {
+                                    "label": "A: MAHECHA LEON MARIA ELSA  <pre>      </pre>CC 21112292<pre>      </pre>X   "
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "label": "CANCELACION DE VALORIZACION.",
+            "children": [
+                {
+                    "label": "Anotaci&oacute;n Nro: 3",
+                    "children": [
+                        {
+                            "label": "Fecha: 09/02/1990"
+                        },
+                        {
+                            "label": "Radicaci&oacute;n: 800"
+                        },
+                        {
+                            "label": "Documento: "
+                        },
+                        {
+                            "label": "OFICIO 044 del 1990-02-07 00:00:00  FONDO ROT.DE VALORIZ.MPAL de FACATATIVA"
+                        },
+                        {
+                            "label": "ValorActo: "
+                        },
+                        {
+                            "label": "Comentarios",
+                            "children": [
+                                {
+                                    "label": "CANCELACION VALORIZACION "
+                                }
+                            ]
+                        },
+                        {
+                            "label": "Personas que Intervienen en el acto",
+                            "children": [
+                                {
+                                    "label": "DE: FONDO ROTATORIO DE VALORIZACION MUNICIPAL FACATATIVA   <pre>      </pre><pre>      </pre>   "
+                                },
+                                {
+                                    "label": "A: PE\\A VDA. DE PRIETO MARIA ADELIA  <pre>      </pre><pre>      </pre>X   "
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "label": "USUFRUCTO",
+            "children": [
+                {
+                    "label": "Anotaci&oacute;n Nro: 10",
+                    "children": [
+                        {
+                            "label": "Fecha: 27/08/1996"
+                        },
+                        {
+                            "label": "Radicaci&oacute;n: 7487"
+                        },
+                        {
+                            "label": "Documento: "
+                        },
+                        {
+                            "label": "ESCRITURA 1500 del 1996-08-01 00:00:00  NOTARIA 2. de FACATATIVA"
+                        },
+                        {
+                            "label": "ValorActo: "
+                        },
+                        {
+                            "label": "Comentarios",
+                            "children": [
+                                {
+                                    "label": "RESERVA USUFRUCTO (CON OTRO) "
+                                }
+                            ]
+                        },
+                        {
+                            "label": "Personas que Intervienen en el acto",
+                            "children": [
+                                {
+                                    "label": ""
+                                },
+                                {
+                                    "label": "A: DIAZ BALLEN JOSE PABLO  <pre>      </pre><pre>      </pre>   "
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "label": "CANCELACION PROVIDENCIA JUDICIAL",
+            "children": [
+                {
+                    "label": "Anotaci&oacute;n Nro: 17",
+                    "children": [
+                        {
+                            "label": "Fecha: 14/11/2013"
+                        },
+                        {
+                            "label": "Radicaci&oacute;n: 2013-12396"
+                        },
+                        {
+                            "label": "Documento: "
+                        },
+                        {
+                            "label": "OFICIO 706 del 2013-11-14 00:00:00  JUZGADO 001  CIVIL  MUNICIPAL de FACATATIVA"
+                        },
+                        {
+                            "label": "ValorActo: "
+                        },
+                        {
+                            "label": "Comentarios",
+                            "children": [
+                                {
+                                    "label": "CANCELACION PROVIDENCIA JUDICIAL PROCESO 0310 (CANCELACION PROVIDENCIA JUDICIAL)"
+                                }
+                            ]
+                        },
+                        {
+                            "label": "Personas que Intervienen en el acto",
+                            "children": [
+                                {
+                                    "label": "DE: GRANAHORRAR   <pre>      </pre><pre>      </pre>   "
+                                },
+                                {
+                                    "label": "A: BUSTOS RODRIGUEZ LUIS GONZALO  <pre>      </pre>CC 3246295<pre>      </pre>X   "
+                                },
+                                {
+                                    "label": "A: MAHECHA LEON MARIA ELSA  <pre>      </pre>CC 21112292<pre>      </pre>X   "
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "label": "ADJUDICACION LIQUIDACION SOCIEDAD CONYUGAL",
+            "children": [
+                {
+                    "label": "Anotaci&oacute;n Nro: 19",
+                    "children": [
+                        {
+                            "label": "Fecha: 01/11/2023"
+                        },
+                        {
+                            "label": "Radicaci&oacute;n: 2023-13781"
+                        },
+                        {
+                            "label": "Documento: "
+                        },
+                        {
+                            "label": "ESCRITURA 1635 del 2023-10-17 00:00:00  NOTARIA PRIMERA de FACATATIVA"
+                        },
+                        {
+                            "label": "ValorActo: "
+                        },
+                        {
+                            "label": "Comentarios",
+                            "children": [
+                                {
+                                    "label": "ADJUDICACION LIQUIDACION SOCIEDAD CONYUGAL  (ADJUDICACION LIQUIDACION SOCIEDAD CONYUGAL)"
+                                }
+                            ]
+                        },
+                        {
+                            "label": "Personas que Intervienen en el acto",
+                            "children": [
+                                {
+                                    "label": "DE: BUSTOS RODRIGUEZ LUIS GONZALO  <pre>      </pre>CC 3246295<pre>      </pre>   DE: MAHECHA LEON MARIA ELSA  <pre>      </pre>CC 21112292<pre>      </pre>   "
+                                },
+                                {
+                                    "label": "A: MAHECHA LEON MARIA ELSA  <pre>      </pre>CC 21112292<pre>      </pre>X   "
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "label": "CANCELACION POR VOLUNTAD DE LAS PARTES",
+            "children": [
+                {
+                    "label": "Anotaci&oacute;n Nro: 16",
+                    "children": [
+                        {
+                            "label": "Fecha: 19/04/2013"
+                        },
+                        {
+                            "label": "Radicaci&oacute;n: 2013-4149"
+                        },
+                        {
+                            "label": "Documento: "
+                        },
+                        {
+                            "label": "ESCRITURA 692 del 2013-04-09 00:00:00  NOTARIA PRIMERA de FACATATIVA"
+                        },
+                        {
+                            "label": "ValorActo: "
+                        },
+                        {
+                            "label": "Comentarios",
+                            "children": [
+                                {
+                                    "label": "CANCELACION POR VOLUNTAD DE LAS PARTES -DE HIPOTECA- (CANCELACION POR VOLUNTAD DE LAS PARTES)"
+                                }
+                            ]
+                        },
+                        {
+                            "label": "Personas que Intervienen en el acto",
+                            "children": [
+                                {
+                                    "label": "DE: CORPORACION GRANCOLOMBIANA DE AHORRO Y VIVIENDA GRANAHORRAR HOY BANCO BILBAO VIZCAYA ARGENTARIA COLOMBIA S.A.   <pre>      </pre><pre>      </pre>   "
+                                },
+                                {
+                                    "label": "A: MURCIA HILARION PEDRO EFRAIN  <pre>      </pre>CC 11428881<pre>      </pre>   "
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
