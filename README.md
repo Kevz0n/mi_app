@@ -7,7 +7,7 @@ Una aplicación web construida con **FastAPI**, **SQLAlchemy** y **Jinja2** que 
 
 ---
 
-## 📁 Estructura de carpetas
+## 📁 Estructura de carpetas-dale a editar para ver la estructura como debe ser
 
 mi_app/
 ├── app/
